@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b836309a7de225866fad95c0c94f3c76",
+    "revision": "092a85c1b3b1bf16fc0f4c7f66a7b735",
     "url": "/neuralhack-react/index.html"
   },
   {
-    "revision": "935f8e8e9b40906b4b65",
+    "revision": "c9b87fd8f0214940a0e1",
     "url": "/neuralhack-react/static/css/main.bbc2d628.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/neuralhack-react/static/js/2.5c9cab98.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "935f8e8e9b40906b4b65",
-    "url": "/neuralhack-react/static/js/main.0138e809.chunk.js"
+    "revision": "c9b87fd8f0214940a0e1",
+    "url": "/neuralhack-react/static/js/main.51221a6f.chunk.js"
   },
   {
     "revision": "def307fec503013f02ac",

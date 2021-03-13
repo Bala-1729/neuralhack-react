@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/neuralhack-react/precache-manifest.732854ea41cf57d624e89cf858ed4bc0.js"
+  "/neuralhack-react/precache-manifest.72d6f00f964b88adb935d3fb404f59bd.js"
 );
 
 self.addEventListener('message', (event) => {
