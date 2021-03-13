@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/neuralhack-react/static/css/main.bbc2d628.chunk.css",
+    "main.js": "/neuralhack-react/static/js/main.0138e809.chunk.js",
+    "main.js.map": "/neuralhack-react/static/js/main.0138e809.chunk.js.map",
+    "runtime-main.js": "/neuralhack-react/static/js/runtime-main.b86b9051.js",
+    "runtime-main.js.map": "/neuralhack-react/static/js/runtime-main.b86b9051.js.map",
+    "static/js/2.5c9cab98.chunk.js": "/neuralhack-react/static/js/2.5c9cab98.chunk.js",
+    "static/js/2.5c9cab98.chunk.js.map": "/neuralhack-react/static/js/2.5c9cab98.chunk.js.map",
+    "index.html": "/neuralhack-react/index.html",
+    "precache-manifest.732854ea41cf57d624e89cf858ed4bc0.js": "/neuralhack-react/precache-manifest.732854ea41cf57d624e89cf858ed4bc0.js",
+    "service-worker.js": "/neuralhack-react/service-worker.js",
+    "static/css/main.bbc2d628.chunk.css.map": "/neuralhack-react/static/css/main.bbc2d628.chunk.css.map",
+    "static/js/2.5c9cab98.chunk.js.LICENSE.txt": "/neuralhack-react/static/js/2.5c9cab98.chunk.js.LICENSE.txt",
+    "static/media/Picture1.png": "/neuralhack-react/static/media/Picture1.ecfa2d21.png",
+    "static/media/akhil.png": "/neuralhack-react/static/media/akhil.1e0b55ac.png",
+    "static/media/anudeep.jpg": "/neuralhack-react/static/media/anudeep.b9dafc69.jpg",
+    "static/media/bala.png": "/neuralhack-react/static/media/bala.b5ce7563.png",
+    "static/media/bg001.jpg": "/neuralhack-react/static/media/bg001.b26bcbf1.jpg",
+    "static/media/bg003.jpg": "/neuralhack-react/static/media/bg003.582bf9b3.jpg",
+    "static/media/bg11.jpg": "/neuralhack-react/static/media/bg11.6396a95d.jpg",
+    "static/media/bg7.jpg": "/neuralhack-react/static/media/bg7.b08234a2.jpg",
+    "static/media/hosp.jpg": "/neuralhack-react/static/media/hosp.707b91a8.jpg",
+    "static/media/rishikesh.png": "/neuralhack-react/static/media/rishikesh.e8e63bdd.png",
+    "static/media/sandeep.jpg": "/neuralhack-react/static/media/sandeep.7eefcb80.jpg",
+    "static/media/title.jpg": "/neuralhack-react/static/media/title.a8a4497a.jpg",
+    "static/media/useridf.png": "/neuralhack-react/static/media/useridf.ed1a8749.png",
+    "static/media/useridm.png": "/neuralhack-react/static/media/useridm.54e9ec53.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b86b9051.js",
+    "static/js/2.5c9cab98.chunk.js",
+    "static/css/main.bbc2d628.chunk.css",
+    "static/js/main.0138e809.chunk.js"
+  ]
+}
